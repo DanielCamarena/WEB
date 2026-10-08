@@ -80,6 +80,51 @@ Con botones de VS Code:
 - Recomendación: activar el "auto save" en la pestaña file
 
 
+Con ayuda de Github Copilot tenemos los comandos para ejecutar en terminal:
 
+git init
+
+git add .
+
+git commit -m "Inicio del tiempo"
+
+[main (root-commit) caa1f80] Inicio del tiempo
+ 2 files changed, 131 insertions(+)
+ create mode 100644 bitacora1.txt
+ create mode 100644 bitacora2.md
+PS C:\Users\quant\Documents\WEB>
+
+Para seleccionar la rama:
+
+git branch -M main
+
+Luego de crear en github el repositorio WEB vacío y en público obtenemos
+https://github.com/DanielCamarena/WEB.git
+
+Fijar el remoto:
+
+git remote add origin https://github.com/DanielCamarena/WEB.git
+
+Llevar al remoto:
+
+git push -u origin main
+
+Te puede pedir iniciar sesión en github
+
+Luego de iniciar sesión sale: 
+
+PS C:\Users\quant\Documents\WEB> git push -u origin main
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 1.55 KiB | 1.55 MiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/DanielCamarena/WEB.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\quant\Documents\WEB>
+
+Verificar en la web
 
 
