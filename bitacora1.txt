@@ -1,0 +1,46 @@
+# Bitacora 1
+
+Nota: bitacora1.txt fue creado en la carpeta C:\Users\quant\Documents\WEB con el editor de texto de Windows
+
+## Curso guía
+
+https://ed.team/cursos/web
+https://platzi.com/cursos/programacion-basica/ 
+
+
+## Tecnología Web
+
+Web: html css JavaScript
+
+HTML:
+es un lenguaje de marcado (formateas texto)
+la extensión es .html 
+markdown es un lenguaje de marcado sencillo 
+los archivos tienen extension .md
+
+CSS:
+es un lenguaje de diseño 
+
+JavaScript:
+es un lenguaje de programación (codigo) 
+en el contexto web: interacción, acciones
+
+## ¿Qué es un readme?
+
+En desarrollo de software: documentación de un proyecto es clave
+El inicio de la documentación es el readme
+
+## Editor vs IDE
+
+Editor:
+Manipular un lenguaje 
+
+Editor sencillo multi-útil -> terminales 
+terminal: aplicación sencilla de comandos para el sistema (operativo)
+
+Sistema operativo: mesa sobre la que se colocan los programas de un computador
+- permite tener archivos y carpetas
+
+IDE: 
+Editor + entorno
+Entorno: tener herramientas a la mano 
