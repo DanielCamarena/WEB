@@ -11,8 +11,6 @@ Ver anotaciones en el pdf: [bitacora3.pdf](bitacoras/bitacora3/bitacora3.pdf)
 - Lenguaje de programación de alto nivel 
 - Orientado a objetos: clases (propiedades, ser gato) y objetos (un caso especifico, Garfield)
 
-La instalacion se hizo con extensiones de VS Code
-
 Elementos de Python:
 - programas o script de python: archivo .py por ejemplo hola.py
 - variables: enteros, flotantes, cadenas de caracteres (texto)
@@ -26,6 +24,24 @@ Entornos de Python:
 - manejar las librerias y sus las versiones
 - instalador: pip 
 - archivo que indique el entorno: .venv
+
+### Instalación de Python
+
+Las extensiones de VS Code sirven para gestionar entornos de Python, 
+pero el core de Python debe instalarse de su fuente oficial: 
+https://www.python.org/ftp/python/pymanager/python-manager-26.4.msix 
+
+Luego en un powershell ejecutar
+
+`
+python --version
+`
+
+También verificar la instalacion del instalador de paquetes:
+
+`
+pip --version
+`
 
 ### Jugando con Python
 
